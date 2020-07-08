@@ -1,0 +1,33 @@
+.header{
+	min-height: 50px;
+	margin-bottom: 20px 0px 10px 0px;
+	padding: 10px 0;
+
+}
+.logo{
+	max-width: 100%;
+    height: auto;
+}
+
+
+.alart , .badges, .button , .footer{
+	min-height: 50px;
+	margin-bottom: 20px 0px 10px 0px;
+	padding: 10px 0;
+
+
+/*.header, .hero , .body, .bar , .footer{
+	min-height: 50px;
+	background-color: #FFAEC9;
+	margin-bottom: 20px 0px 10px 0px;
+	padding: 10px 0;
+}
+.bg{
+	background-color: #99D9EA;
+	border: 5px solid #22B14C;
+	min-height: 80px;
+	margin-bottom: 10px;
+}
+.red{
+	background-color: red;
+}*/
